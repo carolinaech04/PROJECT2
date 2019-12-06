@@ -1,0 +1,38 @@
+table{
+	margin: auto;
+}
+
+.img1{
+	
+border: 9px black dashed;
+border-radius: 5px;
+height: 450px;
+width: 800px;
+font-size: 50px;
+text-align: center;
+	
+}
+
+.column1{
+	border: 3px black dashed;
+	height: 750px;
+	width: 500px;
+	padding: 10px;
+	background-color: #F0DEF5;
+	font-size: 60px;
+}
+
+.column2{
+	border: 3px black dashed;
+	height: 750px;
+	width: 500px;
+	padding: 10px;
+	background-color: #F0DEF5;
+	font-size: 60px;
+}
+  
+
+
+	body {
+	background-color: #FFB6C1; 
+	}
